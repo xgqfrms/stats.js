@@ -1,7 +1,7 @@
 stats.js
 ========
 
-#### JavaScript Performance Monitor ####
+#### JavaScript 性能监视器 ####
 
 This class provides a simple info box that will help you monitor your code performance.
 
